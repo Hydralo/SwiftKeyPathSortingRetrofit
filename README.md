@@ -2,8 +2,7 @@ import Foundation
 
 # Swift KeyPath Sorting Retrofit
 
-A convenient extension for Sequence protocol that allows to sort [Element] in Swift-like manner. Is inspirited by SortDescriptor implementation for iOS >= 15 and [Swift by Sundell article](https://www.swiftbysundell.com/articles/sorting-swift-collections/).
-If your minimal project target OS version is iOS >= 15 you should use Apple proprietary SortDescriptor.
+A convenient extension to the Sequence protocol that allows you to sort elements in a Swift-like way. It is inspired by the SortDescriptor implementation in iOS >= 15, and the [Swift by Sundell article](https://www.swiftbysundell.com/articles/sorting-swift-collections/) on sorting Swift collections. If your minimum project target operating system version is iOS >= 15, you should use the Apple-proprietary SortDescriptor.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
 
