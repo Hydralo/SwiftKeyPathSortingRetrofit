@@ -5,7 +5,8 @@ import Foundation
 A convenient extension to the Sequence protocol that allows you to sort elements in a Swift-like way. It is inspired by the SortDescriptor implementation in iOS >= 15, and the [Swift by Sundell article](https://www.swiftbysundell.com/articles/sorting-swift-collections/) on sorting Swift collections. If your minimum project target operating system version is iOS >= 15, you should use the Apple-proprietary SortDescriptor.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
-
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FHydralo%2FSwiftKeyPathSortingRetrofit%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/Hydralo/SwiftKeyPathSortingRetrofit)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FHydralo%2FSwiftKeyPathSortingRetrofit%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/Hydralo/SwiftKeyPathSortingRetrofit)
 
 ## Example
 
